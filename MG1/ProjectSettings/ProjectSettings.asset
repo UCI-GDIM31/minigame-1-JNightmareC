@@ -143,7 +143,8 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1.0
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -924,11 +925,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8a10fd57-7120-4886-9124-2dfce6ebfabf
+  cloudProjectId: 148a386d-5876-4b95-90b9-b0c6db8ca8d9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MG1
-  organizationId: ijustmadethisup
+  projectName: Minigame one
+  organizationId: n1ghtmar3_07
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
